@@ -1,2 +1,22 @@
+*{
+	font-size: 1.75rem;
+}
+.red{
+	background-color: red;
+}
+.blue{
+	background-color: blue;
+}
+.green{
+	background-color: green;
+}
+div > div{
+	height: 100px;
+	width: 100px;
+}
 
-/* Your CSS Code here. */
+.holder{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
